@@ -1,0 +1,7 @@
+specialist programmer
+-----------------------
+
+c++
+----
+ ultimate clarity about vtable 
+ 
